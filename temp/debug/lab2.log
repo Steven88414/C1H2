@@ -1,0 +1,8 @@
+﻿C:\Program Files\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(367,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+C:\Program Files\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  User_defined.c
+  main.c
+  正在產生程式碼...
+c:\c_code\ch1_lab2\source\user_defined.c(8): warning C4716: 'User_defined_print': 必須傳回值
+  lab2.vcxproj -> C:\c_code\Ch1_Lab2\lab2\lab2\..\..\temp\debug\lab2.exe
+  lab2.vcxproj -> ..\..\temp\debug\lab2.pdb (Partial PDB)
